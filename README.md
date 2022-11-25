@@ -529,7 +529,7 @@ It= 6(0.68mA)4.09mA
 
 ***4.Video***
 
-https://youtu.be/w19HMWCFxME
+https://youtu.be/w19HMWCFxM
 
 ***5.Conclusiones***
 
